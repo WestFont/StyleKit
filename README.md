@@ -1,5 +1,3 @@
-<br>
-
 # StyleKit
 
 The official API for StyleKit. Instant, high-performance UI effects and components for web projects
