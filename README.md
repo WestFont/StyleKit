@@ -1,6 +1,6 @@
 # StyleKit
 
-The official API for StyleKit. Instant, high-performance UI effects and components for the web.
+The official API for StyleKit. Instant, high-performance UI effects and components for the web. 
 
 StyleKit is a Components-as-a-Service developed by westfont for leron.io for premium UI Components and effects.
 
